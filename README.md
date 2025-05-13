@@ -2,7 +2,7 @@
 
 - 👩‍💻 I'm currently working as a staff data scientist at equilibrium energy 
 - 🔋 I'm passionate about clean energy & climate tech & building sustainability
-- 🌱 Check out my data science-oriented side projects & my personal website
+- 🌱 Check out my side projects & personal website
 - 🏃‍♀️ I love to run!
 
 Check out my website [here](https://www.zoemcbride.com) <p>
