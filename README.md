@@ -1,9 +1,8 @@
 ### Hi there, I'm Zoë 👋
 
-- 👩‍💻 I'm currently working on data science-oriented side projects & my personal website
+- 👩‍💻 I'm currently working as a staff data scientist at equilibrium energy 
 - 🔋 I'm passionate about clean energy & climate tech & building sustainability
-- 🌱 I am growing my technical chops in data science & software
-- 🌏 I am on a work hiatus, and spent a few incredible months traveling throughout Asia
+- 🌱 Check out my data science-oriented side projects & my personal website
 - 🏃‍♀️ I love to run!
 
 Check out my website [here](https://www.zoemcbride.com) <p>
